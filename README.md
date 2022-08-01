@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Enjoy-Maity 
 - 👀 I’m interested in Artificial Intelligence, Machine Learning
-- 🌱 I’m currently a B.tech Student in Computer Science and Information Technology, and learning Data analysis with Python and Machine Learning.
+- 🌱 I’m currently an intern in Ericsson Global India Private Limited, working with python scripts to automate. 
+-  I am a B.tech graduate, in Computer Science and Information Technology, and learning Data analysis with Python and Machine Learning.
 - 📫 How to reach me ...
 
 <!---
